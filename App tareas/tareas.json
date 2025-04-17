@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "titulo": "Trabajo 1",
+        "descripcion": "Se chambea hoy",
+        "fecha_limite": "2025-07-12",
+        "completada": true
+    }
+]
