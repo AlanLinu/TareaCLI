@@ -90,7 +90,7 @@ No requiere una instalación compleja. Solo necesitas los archivos del proyecto:
 **1. Menú Principal:**
 ![image](https://github.com/user-attachments/assets/2c741eed-d4e2-4d9d-bb7b-cbcab0eb7229)
 
-**2. Agregando una Nueva Tarea:**
+*2. Agregando una Nueva Tarea:*
 ![image](https://github.com/user-attachments/assets/356b51cd-c692-483d-9fc2-236190c59738)
 
 **3. Listando las Tareas Existentes:**
