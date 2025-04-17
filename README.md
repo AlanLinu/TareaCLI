@@ -88,13 +88,16 @@ No requiere una instalación compleja. Solo necesitas los archivos del proyecto:
 ## Capturas de Pantalla (Ejemplos)
 
 **1. Menú Principal:**
-
+![image](https://github.com/user-attachments/assets/2c741eed-d4e2-4d9d-bb7b-cbcab0eb7229)
 
 **2. Agregando una Nueva Tarea:**
-
+![image](https://github.com/user-attachments/assets/356b51cd-c692-483d-9fc2-236190c59738)
 
 **3. Listando las Tareas Existentes:**
+![image](https://github.com/user-attachments/assets/8fe6632e-3cf9-4bc0-8b14-3eb13511bf62)
 
 
 **4. Marcando una Tarea como Completada:**
+![image](https://github.com/user-attachments/assets/437d2dbd-09ce-41ff-b058-0c49ea322de5)
+![image](https://github.com/user-attachments/assets/d99f204d-2244-4ef9-bd2b-3eaa8db36ca0)
 
